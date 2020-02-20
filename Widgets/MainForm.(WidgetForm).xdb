@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetForm>
+	<Name>EPHelper</Name>
+	<Priority>9820</Priority>
+	<Children>
+		<Item href="Announce.(WidgetTextView).xdb" />
+		<Item href="MainPanel.(WidgetPanel).xdb" />
+		<Item href="IconPanel/IconPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="Button.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="ListButton.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="ButtonText.xdb#xpointer(/WidgetTextView)" />
+		<Item href="ButtonShareText.xdb#xpointer(/WidgetTextView)" />
+	</Children>
+	<BackLayer href="" />
+	<FrontLayer href="" />
+	<Placement>
+		<QuantumScale>false</QuantumScale>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>0</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_DEFAULT</Sizing>
+			<Pos>0</Pos>
+			<HighPos>0</HighPos>
+			<Size>0</Size>
+		</Y>
+	</Placement>
+	<Visible>true</Visible>
+	<Enabled>true</Enabled>
+	<TransparentInput>false</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+</WidgetForm>

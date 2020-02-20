@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>MainPanel</Name>
+	<Children>
+	    <Item href="TextASD.(WidgetTextView).xdb" />
+		<Item href="TextCMB.(WidgetTextView).xdb" />
+		<Item href="TextSkipQ.(WidgetTextView).xdb" />
+		<Item href="TextShareQ.(WidgetTextView).xdb" />
+		<Item href="TextCMD.(WidgetTextView).xdb" />
+		<Item href="TextSQ.(WidgetTextView).xdb" />
+		<Item href="Header.(WidgetTextView).xdb" />
+		<Item href="Close.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check1.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check2.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check3.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check4.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check5.(WidgetButton).xdb" />
+		<Item href="CheckBox/Check6.(WidgetButton).xdb" />
+	</Children>
+	<BackLayer href="Textures/MainFrame.(WidgetLayerTiledTexture).xdb" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>400</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>350</Size>
+		</Y>
+	</Placement>
+</WidgetPanel>
